@@ -1,6 +1,6 @@
 # Parallax theme
-![](https://badgen.net/github/release/StephanStanisic/theme-parallax)
-![](https://badgen.net/badge/WonderCMS/3.0.0/green)
+[![Issue Progress](https://img.shields.io/badge/%E2%9C%93-Issue%20Progress-gray?labelColor=brightgreen&style=flat)](https://crypt.stanisic.nl/kanban/#/2/kanban/view/p6mqokEiUAhkSAJsJVWJyDn04dYvNAkWBLtt4PRF7ZU/)
+[![WonderCMS 3.x.x](https://img.shields.io/badge/WonderCMS-3.x.x-%231ab?style=flat)](https://github.com/robiso/wondercms)
 
 This is just a test of mine. Use at your own risk. Works best with a [floating summernote](https://www.wondercms.com/forum/viewtopic.php?f=23&t=1252) editor.
 
